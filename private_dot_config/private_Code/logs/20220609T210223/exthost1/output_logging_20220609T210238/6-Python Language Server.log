@@ -1,0 +1,21 @@
+[Info  - 21:02:47] (2821) Pylance language server 2022.5.3 (pyright 73c82fab) starting
+[Info  - 21:02:47] (2821) Server root directory: /home/marca/.vscode/extensions/ms-python.vscode-pylance-2022.5.3/dist
+Notebook support: Legacy
+[Info  - 21:02:47] (2821) No configuration file found.
+[Info  - 21:02:47] (2821) No pyproject.toml file found.
+[Info  - 21:02:47] (2821) Setting pythonPath for service "django_prueba": "/home/marca/Dev/django_prueba/venv/bin/python"
+[Warn  - 21:02:47] (2821) stubPath /home/marca/Dev/django_prueba/typings is not a valid directory.
+[Info  - 21:02:47] (2821) Assuming Python version 3.10
+[Info  - 21:02:47] (2821) Assuming Python platform Linux
+[Info  - 21:02:49] (2821) Searching for source files
+[Info  - 21:02:49] (2821) Auto-excluding /home/marca/Dev/django_prueba/venv
+[Info  - 21:02:49] (2821) Found 15 source files
+[Info  - 21:02:49] (2821) Background analysis(1) root directory: /home/marca/.vscode/extensions/ms-python.vscode-pylance-2022.5.3/dist
+[Info  - 21:02:49] (2821) Background analysis(1) started
+[Info  - 21:02:52] (2821) Indexer background runner(2) root directory: /home/marca/.vscode/extensions/ms-python.vscode-pylance-2022.5.3/dist (index)
+[Info  - 21:02:52] (2821) Indexing(2) started
+[Info  - 21:02:55] (2821) [BG(1)] Long operation: checking: /home/marca/Dev/django_prueba/pollsite/polls/models.py (2628ms)
+[Info  - 21:02:55] (2821) [BG(1)] Long operation: analyzing: /home/marca/Dev/django_prueba/pollsite/polls/models.py (3679ms)
+[Info  - 21:02:55] (2821) [IDX(2)] Long operation: scan packages (3038ms)
+[Info  - 21:02:57] (2821) [IDX(2)] Long operation: index libraries /home/marca/Dev/django_prueba (5350ms)
+[Info  - 21:02:57] (2821) Indexer done(2). indexed 439 files

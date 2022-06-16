@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "'CaskaydiaCove Nerd Font Mono'",
+    "editor.fontSize": 15,
+    "workbench.colorTheme": "Aura Dark (Soft Text)",
+    "editor.renderWhitespace": "all",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.tree.indent": 24,
+    "editor.renderLineHighlight": "gutter"
+}

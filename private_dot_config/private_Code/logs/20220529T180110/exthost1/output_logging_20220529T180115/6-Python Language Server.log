@@ -1,0 +1,21 @@
+[Info  - 18:01:21] (11411) Pylance language server 2022.5.3 (pyright 73c82fab) starting
+[Info  - 18:01:21] (11411) Server root directory: /home/marca/.vscode/extensions/ms-python.vscode-pylance-2022.5.3/dist
+Notebook support: Legacy
+[Info  - 18:01:21] (11411) No configuration file found.
+[Info  - 18:01:21] (11411) No pyproject.toml file found.
+[Info  - 18:01:21] (11411) Setting pythonPath for service "django_prueba": "/home/marca/Dev/django_prueba/venv/bin/python"
+[Warn  - 18:01:21] (11411) stubPath /home/marca/Dev/django_prueba/typings is not a valid directory.
+[Info  - 18:01:21] (11411) Assuming Python version 3.10
+[Info  - 18:01:21] (11411) Assuming Python platform Linux
+[Info  - 18:01:21] (11411) Searching for source files
+[Info  - 18:01:21] (11411) Auto-excluding /home/marca/Dev/django_prueba/venv
+[Info  - 18:01:21] (11411) Found 14 source files
+[Info  - 18:01:22] (11411) Background analysis(1) root directory: /home/marca/.vscode/extensions/ms-python.vscode-pylance-2022.5.3/dist
+[Info  - 18:01:22] (11411) Background analysis(1) started
+[Info  - 18:01:23] (11411) Indexer background runner(2) root directory: /home/marca/.vscode/extensions/ms-python.vscode-pylance-2022.5.3/dist (index)
+[Info  - 18:01:23] (11411) Indexing(2) started
+[Info  - 18:01:25] (11411) [IDX(2)] Long operation: index libraries /home/marca/Dev/django_prueba (2466ms)
+[Info  - 18:01:25] (11411) Indexer done(2). indexed 439 files
+[Info  - 18:59:26] (11411) Searching for source files
+[Info  - 18:59:26] (11411) Auto-excluding /home/marca/Dev/django_prueba/venv
+[Info  - 18:59:26] (11411) Found 15 source files

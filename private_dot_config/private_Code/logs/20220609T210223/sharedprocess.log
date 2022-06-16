@@ -1,0 +1,22 @@
+[2022-06-09 21:02:39.389] [sharedprocess] [info] Starting worker process with pid 2765 (type: fileWatcher, window: 1).
+[2022-06-09 21:02:42.894] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-06-09 21:02:42.899] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-09 21:02:42.900] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-06-09 21:02:43.186] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-06-09 21:02:43.226] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-06-09 21:02:43.273] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-06-09 21:02:47.263] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/marca/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.18.1
+[2022-06-09 21:03:00.339] [sharedprocess] [info] Downloaded extension: ms-python.python /home/marca/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.8.0
+[2022-06-09 21:03:02.138] [sharedprocess] [info] Extracted extension to /home/marca/.vscode/extensions/.cce02dcc-5e9b-479d-89c6-fd30929c044c: pkief.material-icon-theme
+[2022-06-09 21:03:02.175] [sharedprocess] [info] Renamed to /home/marca/.vscode/extensions/pkief.material-icon-theme-4.18.1
+[2022-06-09 21:03:02.236] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-06-09 21:03:02.273] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-06-09 21:03:09.525] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/marca/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.6.10
+[2022-06-09 21:03:27.215] [sharedprocess] [info] Extracted extension to /home/marca/.vscode/extensions/.4bc32d23-be2f-4cf0-97a6-33e615eeab58: ms-python.python
+[2022-06-09 21:03:27.265] [sharedprocess] [info] Renamed to /home/marca/.vscode/extensions/ms-python.python-2022.8.0
+[2022-06-09 21:03:27.339] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-06-09 21:03:27.360] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-06-09 21:03:50.876] [sharedprocess] [info] Extracted extension to /home/marca/.vscode/extensions/.20ad748f-b248-4a8d-9c1e-99450b3365b4: ms-python.vscode-pylance
+[2022-06-09 21:03:50.964] [sharedprocess] [info] Renamed to /home/marca/.vscode/extensions/ms-python.vscode-pylance-2022.6.10
+[2022-06-09 21:03:50.975] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-06-09 21:03:50.992] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

@@ -1,0 +1,15 @@
+[2022-05-06 21:42:11.353] [exthost] [info] Extension host with pid 1686 started
+[2022-05-06 21:42:11.353] [exthost] [info] Skipping acquiring lock for /home/marca/.config/Code - OSS/User/workspaceStorage/1af6cc2acc85122ad43ee25645bcc558.
+[2022-05-06 21:42:11.751] [exthost] [info] ExtensionService#_doActivateExtension sumneko.lua, startup: false, activationEvent: 'onLanguage:lua'
+[2022-05-06 21:42:15.011] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-06 21:42:15.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-05-06 21:42:15.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-06 21:42:15.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-06 21:42:15.370] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-06 21:42:16.013] [exthost] [info] Eager extensions activated
+[2022-05-06 21:42:16.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-06 21:42:16.501] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-06 21:42:16.536] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-07 00:27:02.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-07 00:27:02.906] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-07 00:27:02.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

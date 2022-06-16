@@ -1,0 +1,8 @@
+[2022-05-05 16:23:15.898] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-05 16:23:16.101] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-05-05 16:23:16.681] [main] [info] ExtensionHostStarterWorker created
+[2022-05-05 16:23:22.503] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-05 16:23:22.984] [main] [info] Starting extension host with pid 1335 (fork() took 40 ms).
+[2022-05-05 16:23:22.989] [main] [info] ExtensionHostStarterWorker.start() took 64 ms.
+[2022-05-05 16:34:36.508] [main] [info] Waiting for extension host with pid 1335 to exit.
+[2022-05-05 16:34:36.566] [main] [info] Extension host with pid 1335 exited with code: 0, signal: null.

@@ -1,0 +1,14 @@
+[2022-05-03 10:02:40.168] [exthost] [info] Extension host with pid 696 started
+[2022-05-03 10:02:40.168] [exthost] [info] Skipping acquiring lock for /home/marca/.config/Code - OSS/User/workspaceStorage/1af6cc2acc85122ad43ee25645bcc558.
+[2022-05-03 10:02:40.931] [exthost] [info] ExtensionService#_doActivateExtension sumneko.lua, startup: false, activationEvent: 'onLanguage:lua'
+[2022-05-03 10:02:45.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-03 10:02:45.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-05-03 10:02:45.648] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-03 10:02:45.758] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-03 10:02:45.878] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-03 10:02:46.235] [exthost] [info] Eager extensions activated
+[2022-05-03 10:02:46.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 10:02:46.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 10:02:46.469] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 14:02:28.900] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-05-03 14:02:28.911] [exthost] [info] Extension host with pid 696 exiting with code 0

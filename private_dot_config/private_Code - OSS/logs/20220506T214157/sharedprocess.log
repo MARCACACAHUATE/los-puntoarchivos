@@ -1,0 +1,8 @@
+[2022-05-06 21:42:11.664] [sharedprocess] [info] Starting worker process with pid 1747 (type: fileWatcher, window: 1).
+[2022-05-06 21:42:17.409] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-05-06 21:42:18.416] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-05-06 21:42:20.894] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/marca/.config/Code - OSS/CachedExtensionVSIXs/pkief.material-icon-theme-4.17.0
+[2022-05-06 21:42:25.051] [sharedprocess] [info] Extracted extension to /home/marca/.vscode-oss/extensions/.73399669-37ab-4ceb-81d7-a59fe10f17c2: pkief.material-icon-theme
+[2022-05-06 21:42:25.064] [sharedprocess] [info] Renamed to /home/marca/.vscode-oss/extensions/pkief.material-icon-theme-4.17.0
+[2022-05-06 21:42:25.076] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-05-06 21:42:25.126] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme

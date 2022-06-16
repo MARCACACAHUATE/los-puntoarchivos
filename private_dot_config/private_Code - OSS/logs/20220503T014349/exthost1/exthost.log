@@ -1,0 +1,12 @@
+[2022-05-03 01:43:53.658] [exthost] [info] Extension host with pid 2854 started
+[2022-05-03 01:43:53.658] [exthost] [info] Skipping acquiring lock for /home/marca/.config/Code - OSS/User/workspaceStorage/1af6cc2acc85122ad43ee25645bcc558.
+[2022-05-03 01:43:53.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-03 01:43:53.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-05-03 01:43:53.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-03 01:43:53.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-03 01:43:53.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-03 01:43:54.148] [exthost] [info] Eager extensions activated
+[2022-05-03 01:43:54.254] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 01:43:54.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 01:43:54.283] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 01:44:17.220] [exthost] [info] ExtensionService#_doActivateExtension sumneko.lua, startup: false, activationEvent: 'onLanguage:lua'

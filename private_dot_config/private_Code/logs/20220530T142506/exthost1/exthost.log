@@ -1,0 +1,105 @@
+[2022-05-30 14:25:10.744] [exthost] [info] Extension host with pid 17756 started
+[2022-05-30 14:25:10.745] [exthost] [info] Skipping acquiring lock for /home/marca/.config/Code/User/workspaceStorage/7206c03159c5babe5fc12d2bfbdc1468.
+[2022-05-30 14:25:11.340] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-30 14:25:11.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-30 14:25:11.568] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-30 14:25:11.628] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-30 14:25:11.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-30 14:25:11.709] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-05-30 14:25:12.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-30 14:25:12.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-30 14:25:13.033] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-30 14:25:13.574] [exthost] [info] Eager extensions activated
+[2022-05-30 14:25:13.829] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-30 14:25:13.865] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 14:25:13.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 14:25:13.937] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 14:26:51.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-30 14:26:51.621] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-30 14:26:51.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-30 14:47:03.997] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-05-30 14:47:49.329] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:django-html'
+[2022-05-30 14:48:37.789] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:48:37.797] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:48:37.825] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-05-30 14:48:37.825] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:1,$model1) has been disposed"}
+[2022-05-30 14:48:41.008] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:48:41.009] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:48:41.054] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-05-30 14:48:41.054] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:1,$model5) has been disposed"}
+[2022-05-30 15:22:51.367] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-05-30 15:22:51.367] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-05-30 15:23:34.793] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 15:23:34.793] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 15:23:34.822] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-05-30 15:23:34.822] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:1,$model9) has been disposed"}
+[2022-05-30 17:45:24.892] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-30 17:45:24.893] [exthost] [error] Error: name must not be falsy
+    at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96768)
+    at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96717)
+    at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:83077)
+    at G (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+    at c (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+    at Object.t.map (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+    at Object.asDocumentSymbols (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+    at /home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+    at r.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-30 17:45:25.275] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-30 17:45:25.276] [exthost] [error] Error: name must not be falsy
+    at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96768)
+    at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96717)
+    at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:83077)
+    at G (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+    at c (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+    at Object.t.map (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+    at Object.asDocumentSymbols (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+    at /home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+    at r.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-30 17:45:25.757] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-30 17:45:25.757] [exthost] [error] Error: name must not be falsy
+    at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96768)
+    at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96717)
+    at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:83077)
+    at G (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+    at c (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+    at Object.t.map (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+    at Object.asDocumentSymbols (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+    at /home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+    at r.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-30 17:46:15.138] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-30 17:46:15.139] [exthost] [error] Error: name must not be falsy
+    at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96768)
+    at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96717)
+    at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:83077)
+    at G (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+    at c (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+    at Object.t.map (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+    at Object.asDocumentSymbols (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+    at /home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+    at r.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-30 18:35:01.126] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-30 18:35:01.126] [exthost] [error] Error: name must not be falsy
+    at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96768)
+    at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96717)
+    at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:83077)
+    at G (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+    at c (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+    at Object.t.map (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+    at Object.asDocumentSymbols (/home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+    at /home/marca/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+    at r.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-30 18:46:10.244] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-30 18:46:11.076] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/marca/.vscode/extensions/vscodevim.vim-1.22.2/src/register/register.ts:350:30)
+    at Object.e.deactivate (/home/marca/.vscode/extensions/vscodevim.vim-1.22.2/extension.ts:65:18)
+    at m._deactivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:13083)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10642
+    at Array.map (<anonymous>)
+    at m._deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10630)
+    at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:11010)
+    at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:620)
+    at l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:36401)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34097)
+    at Socket.emit (node:events:402:35)
+    at Pipe.<anonymous> (node:net:687:12)
+[2022-05-30 18:46:11.076] [exthost] [info] Extension host with pid 17756 exiting with code 0

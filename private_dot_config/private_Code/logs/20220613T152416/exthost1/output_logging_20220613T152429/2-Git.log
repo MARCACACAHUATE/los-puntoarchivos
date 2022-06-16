@@ -1,0 +1,4 @@
+[2022-06-13T20:24:31.972Z] Validating found git in: git
+[2022-06-13T20:24:32.118Z] Using git 2.35.1 from git
+[2022-06-13T20:24:32.297Z] > git rev-parse --show-toplevel [164ms]
+[2022-06-13T20:24:32.297Z] fatal: this operation must be run in a work tree

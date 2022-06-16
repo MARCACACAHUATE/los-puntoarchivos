@@ -1,0 +1,18 @@
+[2022-05-30 13:25:02.850] [exthost] [info] Extension host with pid 1557 started
+[2022-05-30 13:25:02.851] [exthost] [info] Skipping acquiring lock for /home/marca/.config/Code/User/workspaceStorage/7206c03159c5babe5fc12d2bfbdc1468.
+[2022-05-30 13:25:03.087] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-30 13:25:04.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-30 13:25:04.741] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-30 13:25:04.917] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-30 13:25:05.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-30 13:25:05.186] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-05-30 13:25:05.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-30 13:25:05.904] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-30 13:25:06.574] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-30 13:25:07.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-30 13:25:07.586] [exthost] [info] Eager extensions activated
+[2022-05-30 13:25:07.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 13:25:07.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 13:25:08.031] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 13:25:25.521] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-30 13:25:25.554] [exthost] [info] Extension host with pid 1557 exiting with code 0

@@ -1,0 +1,39 @@
+www.elfinanciero.com.mx
+    pagina principal:
+    pagina de cada categoria:
+    
+    titulo:
+    contenido:
+    fecha:
+
+www.larepublica.co 
+    pagina principal:
+    pagina de cada categoria:
+    
+    titulo:
+    contenido:
+    fecha:
+
+www.eluniversal.com.mx
+    pagina principal:
+    pagina de cada categoria:
+    
+    titulo:
+    contenido:
+    fecha:
+
+www.jornada.com.mx
+    pagina principal:
+    pagina de cada categoria:
+    
+    titulo:
+    contenido:
+    fecha:
+
+www.milenio.com
+    pagina principal:
+    pagina de cada categoria:
+    
+    titulo:
+    contenido:
+    fecha:

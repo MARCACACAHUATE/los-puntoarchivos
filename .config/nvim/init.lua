@@ -10,3 +10,6 @@ require 'themes-config'
 require 'autopairs-config'
 require 'telescope-config'
 require 'whickey-config'
+
+
+local hola = "github"

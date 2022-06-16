@@ -1,9 +1,0 @@
-[2022-05-03 10:02:29.559] [main] [info] window#load: attempt to load window (id: 1)
-[2022-05-03 10:02:29.886] [main] [info] update#ctor - updates are disabled as there is no update URL
-[2022-05-03 10:02:30.495] [main] [info] ExtensionHostStarterWorker created
-[2022-05-03 10:02:36.589] [main] [info] window#load: window reported ready (id: 1)
-[2022-05-03 10:02:37.091] [main] [info] Starting extension host with pid 696 (fork() took 39 ms).
-[2022-05-03 10:02:37.091] [main] [info] ExtensionHostStarterWorker.start() took 47 ms.
-[2022-05-03 10:02:44.959] [main] [info] Enabling inspect port on extension host with pid 696.
-[2022-05-03 14:02:28.980] [main] [info] Waiting for extension host with pid 696 to exit.
-[2022-05-03 14:02:28.983] [main] [info] Extension host with pid 696 exited with code: 0, signal: null.

@@ -1,8 +1,0 @@
-[2022-05-30 14:25:13.747] [sharedprocess] [info] Starting worker process with pid 17832 (type: fileWatcher, window: 1).
-[2022-05-30 14:47:45.926] [sharedprocess] [info] Getting Manifest... batisteo.vscode-django
-[2022-05-30 14:47:45.961] [sharedprocess] [info] Installing extension: batisteo.vscode-django
-[2022-05-30 14:47:47.766] [sharedprocess] [info] Downloaded extension: batisteo.vscode-django /home/marca/.config/Code/CachedExtensionVSIXs/batisteo.vscode-django-1.10.0
-[2022-05-30 14:47:48.713] [sharedprocess] [info] Extracted extension to /home/marca/.vscode/extensions/.fbafd64a-e49a-466b-a704-93d398c7769d: batisteo.vscode-django
-[2022-05-30 14:47:48.730] [sharedprocess] [info] Renamed to /home/marca/.vscode/extensions/batisteo.vscode-django-1.10.0
-[2022-05-30 14:47:48.740] [sharedprocess] [info] Extracting completed. batisteo.vscode-django
-[2022-05-30 14:47:48.744] [sharedprocess] [info] Extension installed successfully: batisteo.vscode-django

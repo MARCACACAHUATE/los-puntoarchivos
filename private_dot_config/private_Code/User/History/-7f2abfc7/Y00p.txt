@@ -1,8 +1,0 @@
-www.elfinanciero.com.mx
-www.larepublica.co 
-www.eluniversal.com.mx
-www.jornada.com.mx
-    - [ ]  Scrapera la pagina principal para sacar los links a las categorías. (xpath)
-    - [ ]  Obtener los xpath para sacar los link de las noticias.
-    - [ ]  Sacar la data de las noticias utilizando los xpath.
-- Milenio ([https://www.milenio.com](https://www.milenio.com/))

@@ -1,4 +1,0 @@
-2022/05/07-15:11:28.715 280f Reusing MANIFEST /home/marca/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
-2022/05/07-15:11:28.716 280f Recovering log #3
-2022/05/07-15:11:28.831 280f (ignoring error) /home/marca/.config/Code - OSS/Service Worker/Database/000003.log: dropping 676 bytes; Corruption: missing start of fragmented record(2)
-2022/05/07-15:11:28.831 280f Reusing old log /home/marca/.config/Code - OSS/Service Worker/Database/000003.log 

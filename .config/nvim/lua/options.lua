@@ -13,6 +13,7 @@ local options = {
     number = true,
     termguicolors = true,
     updatetime = 1000,
+    showmode = false,
 }
 
 for k, v in pairs(options) do

@@ -25,6 +25,7 @@ return require('packer').startup(function()
     use 'nvim-treesitter/nvim-treesitter-refactor'
 
     use {'akinsho/bufferline.nvim', tag = "v2.*", requires = {'kyazdani42/nvim-web-devicons', opt= true }}
+    use({'noib3/nvim-cokeline', requires = 'kyazdani42/nvim-web-devicons'})
 
     -- Themes
     use 'voithos/vim-colorpack'

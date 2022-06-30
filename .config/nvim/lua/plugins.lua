@@ -34,6 +34,7 @@ return require('packer').startup(function()
     use {'MordechaiHadad/nvim-papadark', requires = {'rktjmp/lush.nvim'}}
     use 'rockerBOO/boo-colorscheme-nvim'
     use 'folke/tokyonight.nvim'
+    use("themercorp/themer.lua")  --Theme manager
     
     use "windwp/nvim-autopairs"
 

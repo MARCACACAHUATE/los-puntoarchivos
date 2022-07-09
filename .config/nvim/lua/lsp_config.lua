@@ -56,7 +56,10 @@ for _, lsp in pairs(servers) do
         analysis = {
             autoSearchPaths = true,
             diagnosticMode = "workspace",
-            useLibraryCodeForTypes = true
+            useLibraryCodeForTypes = true,
+            diagnosticSeverityOverrides = {
+                reportGeneralTypeIssues = "none",
+            }
         }
       }
     },
